@@ -1,0 +1,6 @@
+﻿  ProjectCode.c
+D:\Courses\Semester 6\Digital Signal Processing\Lab Codes\Project\Visual Studio C code\Project Code\ProjectCode.c(106): warning C4101: 'j': unreferenced local variable
+D:\Courses\Semester 6\Digital Signal Processing\Lab Codes\Project\Visual Studio C code\Project Code\ProjectCode.c(141): warning C4244: '+=': conversion from 'const real64_T' to 'float', possible loss of data
+D:\Courses\Semester 6\Digital Signal Processing\Lab Codes\Project\Visual Studio C code\Project Code\ProjectCode.c(165): warning C4013: 'memcpy' undefined; assuming extern returning int
+D:\Courses\Semester 6\Digital Signal Processing\Lab Codes\Project\Visual Studio C code\Project Code\ProjectCode.c(184): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Project Code.vcxproj -> D:\Courses\Semester 6\Digital Signal Processing\Lab Codes\Project\Visual Studio C code\Project Code\Debug\Project Code.exe
